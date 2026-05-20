@@ -139,4 +139,4 @@ app.listen(PORT, async () => {
   await initDb();
 });
 
-//prueba pipeline backend
+//Prueba backend pipeline grabacion jeje
